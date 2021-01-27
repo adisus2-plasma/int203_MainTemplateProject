@@ -1,7 +1,8 @@
 const app = {
     data(){
         return{
-            msg: 'Hello, vue'
+            msg: 'Hello, vue',
+            class: 'Pattarapol'
         }
     }
 }
