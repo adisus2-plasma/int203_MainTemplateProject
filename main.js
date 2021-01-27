@@ -2,8 +2,9 @@ const app = {
     data(){
         return{
             msg: 'Hello, vue',
-            class: 'Pattarapol'
+            diz: 'inwza'
         }
+        
     }
 }
 Vue.createApp(app).mount('#app')
